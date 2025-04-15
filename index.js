@@ -4,7 +4,7 @@ let body = document.querySelector("body");
 let month;
 let year;
 let day;
-let date = 1;
+let date = 4;
 let table;
 let dateLimit = function(){
     if(parseInt(year)%4==0){
